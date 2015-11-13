@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BubbleView</string>
+
+    <string name="unit_people">人</string>
+</resources>
